@@ -14,3 +14,7 @@
 • Save as - saves the set of policies under a different name
 
 • Save as json - saves the set of policies in json format
+
+
+## Setup
+Run the application through the lab_1.py file.
