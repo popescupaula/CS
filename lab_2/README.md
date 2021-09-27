@@ -9,9 +9,9 @@
 
 ## Features  
 
-Export - export audit file in a new audit file
-New - creates a new file
-Open - open a file
-Save - save items in a json file
-Save As - save in a new json file
-Exit - close the app
+Export - export audit file in a new audit file < /br>
+New - creates a new file < /br>
+Open - open a file < /br>
+Save - save items in a json file < /br>
+Save As - save in a new json file < /br>
+Exit - close the app < /br>
