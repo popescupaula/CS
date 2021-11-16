@@ -1,4 +1,4 @@
-# Lab 3: Enforcing a Policy
+# Lab 4: Enforcing a Policy
 ----------------------------------------------------------------------
 ## A local desktop application for parsing and saving imported policies.
 
